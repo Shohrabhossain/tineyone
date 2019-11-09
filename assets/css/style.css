@@ -1,0 +1,150 @@
+.header-scetion{
+    background: yellow;
+    padding: 44px;
+}
+
+.header-scetion menu{}
+.header-scetion li{
+    margin-right: 55px;
+}
+.header-scetion a{
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+    transition: .2s all ease;
+}
+.header-scetion a:hover{
+    color: blue;
+    letter-spacing: 2px;
+}
+
+.row{
+
+    justify-content: space-between;
+}
+
+.fab{
+
+color: black;
+
+font-size: 33px;
+
+margin-right: 34px;
+
+color: yellow;
+}
+/*-----------------------header-section end---------------------------*/
+
+
+
+/*-----------------------Inspire-section start---------------------------*/
+
+.inspire-section{
+    background: yellow;
+    padding: 60px;
+}
+
+.inspire-section h1{
+    font-size: 30px
+}
+.inspire-section h6{
+    font-size: 20px;
+}
+.inspire-section p{
+    color: gray,
+}
+
+.inspire-section img{
+    height: 400px;
+}
+
+/*-----------------------Inspire-section end---------------------------*/
+
+
+
+ /*------------------------------feature section end------------------------------*/
+
+ .feauter-section{}
+ .feauter-section h2{
+    text-align: center;
+    margin-top: 60px;
+}
+ .feauter-section p{
+    margin-left: 46px;
+    text-align: justify;
+}
+ .feauter-section i{
+    margin-right: 25px;
+}
+ .feauter-section h4{
+    margin-top: 30px;
+}
+
+
+.submit-section{
+    background: black;
+    margin-top: 45px;
+    padding: 50px;
+}
+.submit-section h3{
+    text-align: center;
+    margin-bottom: 27px;
+    color: yellow;
+}
+
+.submit-section p{
+    color: gray;
+}
+.submit-section input{
+    min-width: 80%;
+    min-height: 43px;
+}
+
+.btn-primary {
+   
+    margin-top: -4px;
+    padding: 9px;
+
+.btn-custom a{
+    
+}
+
+.social-share{}
+.social-share li{}
+.social-share li a{}
+
+.social-share i{
+    background: yellow;
+    padding: 3px;
+    border-radius: 4px;
+    color: yellow;
+}
+
+
+
+/*------------------------feauter section end-----------------------------*/
+
+/*------------------------footer section start-----------------------------*/
+
+
+.footer-section{
+    background: black;
+    padding: 33px;
+
+}
+.footer-section p{
+    color: white;
+
+}
+
+
+
+
+
+{
+}
+
+/*------------------------footer section end-----------------------------*/
+
+
